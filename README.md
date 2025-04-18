@@ -46,7 +46,3 @@ In addition to structured course and event tracking, Dashflow features a sticky 
 ## Purpose
 
 Dashflow was built to address the need for a student-centric organizational tool that is both simple and effective. Unlike traditional academic portals, Dashflow focuses on usability, customization, and visual clarity, allowing students to manage their semester on their own terms.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
